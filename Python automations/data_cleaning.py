@@ -1,4 +1,3 @@
-#Day2
 #1.drop duplicate rows
 #2.replace missing values with 0
 #3.Example: Standardize date format. 
